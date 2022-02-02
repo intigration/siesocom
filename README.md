@@ -1,5 +1,5 @@
 # siesocom
-Complete SiesoCom documentation.
+This repository is intended as the go-to complete SiesoCom documentation.
 
 CONTENTS OF THIS REPO
 ---------------------
