@@ -222,6 +222,9 @@ After clicking on "Attach", the S-Mote resource state is updated to
 
 
 At this point, your S-mote resource (avatar) is ready and the real-world device (RPI board) initialization can be carried out
+ 
+ ***Important Notice: When 'attaching' the S-mote in section 3.2 of the S-Mote setup and onboarding guide, make sure to attach it to the 'good' Edge-Core 
+    ("L890006" in this example) and Setup ("SiESoCom_2" in this example)***
 
 
 
@@ -304,16 +307,4 @@ Note: A DSA session to an already initialized mote is always possible, typically
  
  ![f19](https://user-images.githubusercontent.com/98868747/152147206-b20326da-76d2-4d19-ab2e-0f1a92793cf3.jpg)
 
-
-ATTACH S-MOTE
--------------------------
-
-
-•	Follow the steps described in "S-Mote setup and onboarding" guide to on-board a new S-Mote. Once the new S-Mote has been onboarded, it shall appear on the Devices list with the status "on-line". For the rest of the guide, we are assuming that we have onboarded S-mote "S- mote#1" (S/N CSP-B827EB2DB0F1)
- 
-***Important Notice: When 'attaching' the S-mote in section 3.2 of the S-Mote setup and onboarding guide, make sure to attach it to the 'good' Edge-Core 
-    ("L890006" in this example) and Setup ("SiESoCom_2" in this example)*** 
-
-![Picture8](https://user-images.githubusercontent.com/98868747/152133094-8850261e-76aa-4652-9572-e67ad702c5ad.jpg)
-
-_The new S-Mote is now a member of the SiESoCom_2 setup_
+ _The new S-Mote is now a member of the SiESoCom_2 setup_
