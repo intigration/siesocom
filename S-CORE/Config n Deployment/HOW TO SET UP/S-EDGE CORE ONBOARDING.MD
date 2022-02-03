@@ -12,12 +12,13 @@ SIESOCOM EDGE CORE --- SETUP & ONBOARDING GUIDE
 **On-boarding a new SiESoCom Edge-Core (S-Edge-Core) device typically consists of following 3 steps:**
 
 ●  Installing S-Edge-Core Distribution on Edge-Core hardware
+
 ●  Commissioning the S-Edge-Core resource on M3  infra servers
+
 ●  Initializing the S-Edge-Core using Device Setup Application (DSA)
 
 
-***The SiESoCom project is using Siemens IPC "SIMATIC Microbox 427E" for Edge
-Core hardware, so this guide refers to this particualar hardware. ***
+***The SiESoCom project is using Siemens IPC "SIMATIC Microbox 427E" for Edge-Core hardware, so this guide refers to this particualar hardware.***
 
 
 
