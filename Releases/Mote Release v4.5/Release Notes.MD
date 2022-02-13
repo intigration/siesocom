@@ -63,17 +63,15 @@ ISSUES/LIMITATIONS/CHALLENGES
 
 HOW TO SET UP
 -------------
-1-	[Create a Setup]
-(https://github.com/alya-arshad00/siesocom_/blob/018e511a9b5adeb9454b3d8997baa9d84539ee24/S-CORE/Config%20n%20Deployment/HOW%20TO%20SET%20UP/Create%20A%20Setup.MD)
-2-	[Onboard and attach an S-Edge Core]
-(https://github.com/alya-arshad00/siesocom_/blob/018e511a9b5adeb9454b3d8997baa9d84539ee24/S-CORE/Config%20n%20Deployment/HOW%20TO%20SET%20UP/S-EDGE%20CORE%20ONBOARDING.MD)
-3-	[Onboard and attach an S-Mote] (https://github.com/alya-arshad00/siesocom_/tree/main/S-MOTE/Config%20n%20Deployment/HOW%20TO%20SET%20UP)
-4-	Commission and start the Message Bus
-5-	Commission and start the CEA tier
-6-	Commission and start the TSA tier
-7-	Commission and start the RAF tier
-8-	Commission and start the AFE tier
-9-	Commission and start the AED tier
+1.	[Create a Setup](https://github.com/alya-arshad00/siesocom_/blob/018e511a9b5adeb9454b3d8997baa9d84539ee24/S-CORE/Config%20n%20Deployment/HOW%20TO%20SET%20UP/Create%20A%20Setup.MD)
+2.	[Onboard and attach an S-Edge Core](https://github.com/alya-arshad00/siesocom_/blob/018e511a9b5adeb9454b3d8997baa9d84539ee24/S-CORE/Config%20n%20Deployment/HOW%20TO%20SET%20UP/S-EDGE%20CORE%20ONBOARDING.MD)
+3.	[Onboard and attach an S-Mote](https://github.com/alya-arshad00/siesocom_/tree/main/S-MOTE/Config%20n%20Deployment/HOW%20TO%20SET%20UP)
+4.	Commission and start the Message Bus
+5.	Commission and start the CEA tier
+6.	Commission and start the TSA tier
+7.	Commission and start the RAF tier
+8.	Commission and start the AFE tier
+9.	Commission and start the AED tier
 
 APPLICABLE CONFIGURATIONS
 -------------------------
