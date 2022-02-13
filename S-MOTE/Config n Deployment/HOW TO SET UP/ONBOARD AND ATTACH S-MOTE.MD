@@ -1,28 +1,27 @@
-SiESoCom mote setup & on-boarding guide
+SiESoCom MOTE SETUP & ONBOARDING GUIDE
 ---------------------------------------
 
-***1. Context***
+> ***1. Context***
 
 
-A SiESoCom mote (S-mote) is a standard Raspberry PI 3B+ device to which we connect a USB microphone/acoustic sensor and (optionally) a temperature/humidity sensor.
-
-S-motes use ethernet to connect to M3/Orion system. We made the design decision to make S-motes 'simple' i.e. their main system function is to be a managed data source while the processing of the data is  mostly ensured by containerized applications deployed on local edge cores.
+A SiESoCom mote (S-mote) is a standard Raspberry PI 3B+ device to which we connect a USB microphone/acoustic sensor and (optionally) a temperature/humidity sensor. S-motes use ethernet to connect to M3/Orion system. We made the design decision to make S-motes 'simple' i.e. their main system function is to be a managed data source while the processing of the data is  mostly ensured by containerized applications deployed on local edge cores.
 
 _Note: As the SiESoCom specification evolve, the S-mote capability will also evolve, e.g. additional sensors can be enabled, more audio channels etc._
 
 
-On-boarding a new SiESoCom mote typically consists of following 3 steps
 
-●	Setup the mote hardware in particular connecting the sensors, flashing the OS and installing the SiESoCom mote application environment and application
-
-●  Commissioning the SiESoCom mote resource on M3  infra servers
-
-●  Initializing the SiESoCom mote using Device Setup Application (DSA)
+***On-boarding a new SiESoCom mote typically consists of following 3 steps:***
+- Setup the mote hardware in particular connecting the sensors, flashing the OS and installing the SiESoCom mote application environment and application.
+- Commissioning the SiESoCom mote resource on M3  infra servers.
+- Initializing the SiESoCom mote using Device Setup Application (DSA)
 
 
-The SiESoCom project is using "Raspberry pi 3B+" for mote hardware, so this guide refers to this particualar hardware. 
+_Note: The SiESoCom project is using "Raspberry pi 3B+" for mote hardware, so this guide refers to this particualar hardware._  
 
-2.
+
+ <br>
+    
+> ***2. Procedure***
 **Step 1: Setting up the S-Mote hardware**
 
 
