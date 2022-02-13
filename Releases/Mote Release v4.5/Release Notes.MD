@@ -39,11 +39,11 @@ WHAT’S NEW
 ----------
 1.	This release enables the capture, recording, and playback of raw acoustic data through ‘managed’ and ‘unmanaged’ motes.
 2.	This release brings below apps to the mix that eventually enables the set up of an end-to-end S-App:
-    •	Audio Stream Filer [link to specifications]
-    •	Controller & Events Archiver (CEA) [link to specifications]
-    •	Event Inference Pipeline (EIP) [link to specifications]
-    •	Raw Audio Filer (RAF) [link to specifications]
-    •	Time Series Aggregator (TSA) [link to specifications]
+    -	Audio Stream Filer   [link to specifications](https://github.com/alya-arshad00/siesocom_/blob/beb912786557674d845b483d3b3ed8a2608b93d0/S-Apps/Raw%20Audio%20Filer%20(RAF)/Specifications/6.%20SiESoCom%20RAF%20-%20Raw%20Audio%20Filer%20Specifications%2020210702%20baseline.pdf)
+    -	Controller & Events Archiver (CEA)   [link to specifications](https://github.com/alya-arshad00/siesocom_/blob/beb912786557674d845b483d3b3ed8a2608b93d0/S-Apps/Controller%20&%20Events%20Archiver%20(CEA)/Specifications/4.%20SiESoCom%20CEA%20-%20Controller%20&%20Events%20Archiver%20%20Specifications%2020210702%20baseline.pdf)
+    -	Event Inference Pipeline (EIP)   [link to specifications](https://github.com/alya-arshad00/siesocom_/blob/beb912786557674d845b483d3b3ed8a2608b93d0/S-Apps/Event%20Inference%20Pipeline%20(EIP)/Specifications/2-3.%20SiESoCom%20EIP%20-%20Event%20Inference%20Pipeline%20Specification%2020210705%20baseline.pdf)
+    -	Raw Audio Filer (RAF)   [link to specifications](https://github.com/alya-arshad00/siesocom_/blob/beb912786557674d845b483d3b3ed8a2608b93d0/S-Apps/Raw%20Audio%20Filer%20(RAF)/Specifications/6.%20SiESoCom%20RAF%20-%20Raw%20Audio%20Filer%20Specifications%2020210702%20baseline.pdf)
+    -	Time Series Aggregator (TSA)   [link to specifications](https://github.com/alya-arshad00/siesocom_/blob/beb912786557674d845b483d3b3ed8a2608b93d0/S-Apps/Time%20Series%20Aggregator%20(TSA)/Specifications/5.%20SiESoCom%20TAS%20-%20Time%20Series%20Aggregator%20Specifications%2020210702%20baseline.pdf)
 
 WHAT’S FIXED
 ------------
